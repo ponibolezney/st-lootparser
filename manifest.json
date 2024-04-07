@@ -1,0 +1,11 @@
+{
+    "display_name": "Loot Parser",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "main.js",
+    "author": "Ponibolezney",
+    "version": "1.0.0",
+    "homePage": "https://github.com/ponibolezney/st-lootparser",
+    "auto_update": true
+  }
